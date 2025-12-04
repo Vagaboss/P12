@@ -6,12 +6,12 @@ import pandas as pd
 API_URL = "http://127.0.0.1:8000"
 
 st.set_page_config(
-    page_title="Agritech Answers - Rendement agricole",
+    page_title="Agritech Answers - Rendement agricole Test",
     page_icon="🌾",
     layout="centered",
 )
 
-st.title("🌾 Agritech Answers")
+st.title("🌾 Agritech Answers Test")
 st.subheader("Outil d'aide à la décision pour les rendements agricoles")
 
 st.markdown(
