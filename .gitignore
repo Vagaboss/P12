@@ -39,7 +39,8 @@ mlruns/
 
 # Modèles lourds
 models/
-*.pkl
+!models/best_linear_regression.joblib
+
 
 # Données brutes / lourdes
 data/*.csv
