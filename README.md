@@ -136,4 +136,4 @@ Agritech Answers propose un outil simple, complet et industrialisé permettant :
 - d'exposer un modèle ML via une API robuste,
 
 
-- de fournir une application utilisateur intuitive grâce à Streamlit.
+- de fournir une application utilisateur intuitive grâce à Streamlit..
