@@ -5,7 +5,7 @@
 Ce projet propose une solution complète permettant de prédire le rendement agricole d'une parcelle et de recommander la meilleure culture selon les conditions environnementales.
  Il combine Data Science, API, interface web et pipeline CI/CD.
 
-## 🛠️ Installation
+## 🛠️ Installation - 
 
 ### 1️⃣ Cloner le projet
 
